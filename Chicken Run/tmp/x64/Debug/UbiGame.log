@@ -1,0 +1,72 @@
+﻿  GameBoard.cpp
+C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Source\Game\GameBoard.cpp(221,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Source\Game\GameBoard.cpp(221,22): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Source\Game\GameBoard.cpp(235,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Source\Game\GameBoard.cpp(235,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Source\Game\GameBoard.cpp(294,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Source\Game\GameBoard.cpp(298,25): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Source\Game\GameBoard.cpp(297,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  UbiGame.vcxproj -> C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\bin\x64\Debug\UbiGame.exe
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\bg.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\bird.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\boxWood
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\enemy.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\flag.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\Flappy.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\gameover.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\Green.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\health.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\Idle.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\light.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\particles.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\pink.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\player.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\tileset.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\img\win.png
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\error.ogg
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\glassBreak.wav
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\music.mp3
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\music.ogg
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\music.wav
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\pig.ogg
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\pig_hit2.mp3
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\pig_idle.mp3
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\thunder.wav
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\Resources\snd\win.wav
+  26 File(s) copied
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\openal32.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-audio-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-audio-d-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-graphics-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-graphics-d-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-network-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-network-d-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-system-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-system-d-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-window-2.dll
+  C:\Users\saeid\OneDrive\Desktop\New folder\Chicken Run\Game-ChickenRun\Chicken-Run-SheHack\Chicken Run\..\SFML-2.5.0\bin\sfml-window-d-2.dll
+  11 File(s) copied
